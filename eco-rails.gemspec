@@ -12,5 +12,5 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'activesupport', '~> 3.0'
   gem.add_dependency 'actionpack', '~> 3.0'
-  gem.add_dependency 'eco'
+  gem.add_dependency 'eco', '~> 1.0'
 end
