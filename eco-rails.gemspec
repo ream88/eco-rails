@@ -1,6 +1,8 @@
+require './lib/eco-rails/version'
+
 Gem::Specification.new do |gem|
   gem.name          = 'eco-rails'
-  gem.version       = '0.1.2'
+  gem.version       =  EcoRails::VERSION
   gem.authors       = 'Mario Uher'
   gem.email         = 'uher.mario@gmail.com'
   gem.description   = 'Use your Eco templates from your Rails app.'
